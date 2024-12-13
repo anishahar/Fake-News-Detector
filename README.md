@@ -168,3 +168,8 @@ Person A: Finalize the deployed version.
 Person B: Update GitHub with deployment details.
 Week 6–8: Final Touches, Testing, and Documentation
 Focus these weeks on refining the project, adding optional features (e.g., frontend, advanced visualizations), writing comprehensive documentation, and creating a presentation/demo.
+
+## Things to change
+1. poetry
+2. docker
+3. front
